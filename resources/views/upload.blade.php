@@ -2,5 +2,4 @@
     @csrf
     <input type="file" multiple name="hinh_anh" />
     <button type="submit">Upload</button>
-    <div>đã kiểm tra</div>
 </form>
